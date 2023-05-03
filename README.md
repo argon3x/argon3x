@@ -7,8 +7,9 @@
 <br>
 <article>
   I am a person interested in technology especially in the branches of cybersecurity, linux system administration and programming with python and shell bash.
-  <img src="https://komarev.com/ghpvc/?username=argon3x&label=Profile%20views&color=0e75b6&style=flat">
 </article>
+<br>
+<img src="https://komarev.com/ghpvc/?username=argon3x&label=Profile%20views&color=0e75b6&style=flat">
 <br>
 
 ### ❗ Interests ❗
