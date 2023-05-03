@@ -25,7 +25,7 @@
 <a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a>
 -->
 <img alt="Python" src="https://img.shields.io/badge/-Python3-3776ab?style=flat-square&logo=PYTHON&logoColor=white"/>
-<img alt="Bash Script" src=""/>
+<img alt="Bash Script" src="https://img.shields.io/badge/-Shell%20Script-4eaa25?style=flat-square&logo=Linux&logoColor=white"/>
 <img alt="" src=""/>
 <img alt="" src=""/>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
