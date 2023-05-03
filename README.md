@@ -14,5 +14,5 @@
 
 ### ❗ Languages ❗
 <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-&nbps;
+&nbsp
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" style="vertical-align:top; margin:4px">
