@@ -18,4 +18,4 @@
 ### ❗ Languages ❗
 <a href="#"><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
 <br>
-<a href="#"><img height="45" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a>
+<a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a>
