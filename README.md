@@ -13,6 +13,9 @@
 <a href="https://www.debian.org/index.es.html">
   <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="20%" width="20%">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="20%" width="20%">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="20%" width="20%">
+  
+  
 </a>
 
 
