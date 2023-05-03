@@ -16,6 +16,7 @@
 ![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact)
 
 ### ❗ Languages ❗
-<a href="#"><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-<br>
-<a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a>
+<ul>
+  <li><a href="#"><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></li>
+  <li><a href="#"><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a></li>
+</ul>
