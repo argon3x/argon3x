@@ -42,6 +42,6 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AzeemIdrisi/AzeemIdrisi/output/github-contribution-grid-snake.svg">
 </picture>
-<br>
+<br><br>
 
-<a href="https://github.com/argon3x/r3cder"><img title="r3cder" src="https://github-readme-stats.vercel.app/api/pin/?username=argon3x&repo=r3cder&theme=dark"></a>
+<a href="https://github.com/argon3x/r3cder"><img title="r3cder" src="https://github-readme-stats.vercel.app/api/pin/?username=argon3x&repo=r3cder&theme=vision-friendly-dark"></a>
