@@ -13,5 +13,4 @@
 ![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact)
 
 ### ❗ Languages ❗
-<code><a href="https://www.python.org/" target="_blank"></code>
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
