@@ -8,5 +8,5 @@
 <article>
   I am a person interested in technology especially in the branches of cybersecurity, linux system administration and programming with python and shell bash.</article>
 <br>
-![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact&hide=HTML)
-![Zatiel's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmezatiel&theme=react&layout=compact&hide=HTML)
+![Used_Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact&hide=HTML)
+
