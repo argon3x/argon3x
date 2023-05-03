@@ -10,7 +10,11 @@
 <br>
 
 ### ❗ Interests ❗
-<a href="https://www.debian.org/index.es.html"><img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="20%" width="20%"></a>
+<a href="https://www.debian.org/index.es.html">
+  <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="20%" width="20%">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="20%" width="20%">
+</a>
+
 
 ### ❗ Languages ❗
 <a href="#"><img height="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
