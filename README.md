@@ -10,4 +10,4 @@
 <br>
 
 ##### Used Lenguages
-![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&layout=compact)
+![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact)
