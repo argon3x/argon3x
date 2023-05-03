@@ -9,10 +9,12 @@
   I am a person interested in technology especially in the branches of cybersecurity, linux system administration and programming with python and shell bash.</article>
 <br>
 
+### ❗ Interests ❗
+<a href="#"><img src="" height="20%" width="20%"></a>
+
 ### ❗ Used Lenguages ❗
 ![Used Languges](https://github-readme-stats.vercel.app/api/top-langs/?username=argon3x&theme=react&layout=compact)
 
 ### ❗ Languages ❗
-<a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-&nbsp;
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" style="vertical-align:top; margin:4px">
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></a>
