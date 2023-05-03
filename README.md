@@ -17,5 +17,5 @@
 
 ### ❗ Languages ❗
 <a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
-&npbs;
+&nbps;
 <a href="#"><img height="35" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a>
